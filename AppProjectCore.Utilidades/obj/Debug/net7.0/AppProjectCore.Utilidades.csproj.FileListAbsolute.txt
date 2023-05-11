@@ -1,0 +1,12 @@
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore.Utilidades\bin\Debug\net7.0\AppProjectCore.Utilidades.deps.json
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore.Utilidades\bin\Debug\net7.0\AppProjectCore.Utilidades.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore.Utilidades\bin\Debug\net7.0\AppProjectCore.Utilidades.pdb
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore.Utilidades\obj\Debug\net7.0\AppProjectCore.Utilidades.csproj.AssemblyReference.cache
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore.Utilidades\obj\Debug\net7.0\AppProjectCore.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore.Utilidades\obj\Debug\net7.0\AppProjectCore.Utilidades.AssemblyInfoInputs.cache
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore.Utilidades\obj\Debug\net7.0\AppProjectCore.Utilidades.AssemblyInfo.cs
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore.Utilidades\obj\Debug\net7.0\AppProjectCore.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore.Utilidades\obj\Debug\net7.0\AppProjectCore.Utilidades.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore.Utilidades\obj\Debug\net7.0\refint\AppProjectCore.Utilidades.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore.Utilidades\obj\Debug\net7.0\AppProjectCore.Utilidades.pdb
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore.Utilidades\obj\Debug\net7.0\ref\AppProjectCore.Utilidades.dll
