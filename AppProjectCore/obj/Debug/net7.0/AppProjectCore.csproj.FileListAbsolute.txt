@@ -9,6 +9,12 @@ C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\b
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Azure.Core.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Azure.Identity.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Humanizer.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\System.Web.Mvc.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\System.Web.Razor.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\System.Web.Helpers.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\System.Web.WebPages.Deployment.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\System.Web.WebPages.Razor.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\System.Web.WebPages.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
@@ -63,6 +69,7 @@ C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\b
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Microsoft.Web.Infrastructure.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Newtonsoft.Json.dll
@@ -258,6 +265,12 @@ C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\b
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\AppProjectCore.AccesoDatos.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\AppProjectCore.Models.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\AppProjectCore.Utilidades.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\AppProjectCore.AccesoDatos.pdb
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\AppProjectCore.Models.pdb
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\AppProjectCore.Utilidades.pdb
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\obj\Debug\net7.0\AppProjectCore.csproj.AssemblyReference.cache
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\obj\Debug\net7.0\AppProjectCore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\obj\Debug\net7.0\AppProjectCore.AssemblyInfoInputs.cache
@@ -283,9 +296,3 @@ C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\o
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\obj\Debug\net7.0\AppProjectCore.pdb
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\obj\Debug\net7.0\AppProjectCore.genruntimeconfig.cache
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\obj\Debug\net7.0\ref\AppProjectCore.dll
-C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\AppProjectCore.AccesoDatos.dll
-C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\AppProjectCore.Models.dll
-C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\AppProjectCore.Utilidades.dll
-C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\AppProjectCore.AccesoDatos.pdb
-C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\AppProjectCore.Models.pdb
-C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\AppProjectCore.Utilidades.pdb

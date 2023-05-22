@@ -13,8 +13,10 @@ namespace AppProjectCore.Models
         public int Id { get; set; }
 
         [Required(ErrorMessage ="Ingrese u nombre para la categoria")]
+        [Display(Name ="Nombre Categoria")]
         public string Nombre { get; set; }
 
+        [Display(Name ="Orden de Visualizacion")]
         public int? Orden { get; set; }
     }
 }

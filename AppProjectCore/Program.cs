@@ -1,3 +1,5 @@
+using AppProjectCore.AccesoDatos.Data.Repository;
+using AppProjectCore.AccesoDatos.Data.Repository.IRepository;
 using AppProjectCore.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -13,6 +15,9 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
+
+
+builder.Services.AddScoped<IContenedorTrabajo, ContenedorTrabajoRepository>();
 
 var app = builder.Build();
 

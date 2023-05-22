@@ -8,7 +8,7 @@ using System.Web.Mvc;
 
 namespace AppProjectCore.AccesoDatos.Data.Repository.IRepository
 {
-    internal interface ICategoriaRepository : IRepository<Categoria>
+    public interface ICategoriaRepository : IRepository<Categoria>
     {
         IEnumerable<SelectListItem> GetListaCategorias();
 
