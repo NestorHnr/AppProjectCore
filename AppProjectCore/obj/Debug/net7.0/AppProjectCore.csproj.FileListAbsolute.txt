@@ -20,6 +20,7 @@ C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\b
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Microsoft.Build.dll
@@ -73,6 +74,7 @@ C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\b
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\NuGet.Common.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\NuGet.Configuration.dll
 C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll

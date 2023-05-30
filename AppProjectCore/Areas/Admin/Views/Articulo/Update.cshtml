@@ -1,0 +1,101 @@
+﻿@model AppProjectCore.Models.ViewModels.ArticuloVM
+
+@{
+    ViewData["Title"] = "Modificar Articulo";
+}
+
+<br />
+<br />
+<h3 class="text-center">Modificar un Artículo</h3>
+<form method="post" asp-action="Update" enctype="multipart/form-data">
+    <input  type="hidden" asp-for="Articulo.Id" />
+    <div class="row px-2 border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="col-8 mt-4">
+
+            <div class="form-group row">
+                <div class="col-3">
+                    <label class="col-7">
+                        <label asp-for="Articulo.Nombre"></label>
+                    </label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Articulo.Nombre" class="form-control" />
+                    <span asp-validation-for="Articulo.Nombre" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row mt-2">
+                <div class="col-3">
+                    <label class="col-7">
+                        <label asp-for="Articulo.Descripcion"></label>
+                    </label>
+                </div>
+                <div class="col-7">
+                    <textarea asp-for="Articulo.Descripcion" class="form-control" style="height:100px"></textarea>
+                    <span asp-validation-for="Articulo.Descripcion" class="text-danger"></span>
+
+                </div>
+            </div>
+
+            <div class="form-group row mt-2">
+                <div class="col-3">
+                    <label class="col-7">
+                        <label for="Categoria">Categoría</label>
+                    </label>
+                </div>
+                <div class="col-7">
+                    @Html.DropDownListFor(m => m.Articulo.CategoriaId, Model.ListaCategorias,
+                    "-- Por favor ingrese un Categoría --",new {@class = "form-control"})
+                </div>
+            </div>
+
+            <div class="form-group row mt-2">
+                <div class="col-3">
+                    <label class="col-7">
+                        <label asp-for="Articulo.UrlImage"></label>
+                    </label>
+                </div>
+                <div class="col-7">
+                    <input type="file" name="archivos" id="subidaArchivo" class="form-control"></input>
+                </div>
+            </div>
+
+            <div class="form-group row mt-2">
+                <div class="col-3">
+                    <label class="col-7">
+                        <label asp-for="Articulo.Costo"></label>
+                    </label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Articulo.Costo" class="form-control" />
+                    <span asp-validation-for="Articulo.Costo" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-2 ali mt-4 mb-4">
+                    <button type="submit" class="btn btn-secondary form-control" asp-route-id="@Model.Articulo.Id">Actualizar</button>
+                </div>
+                <div class="col-2 mt-4">
+                    <a asp-action="Index" class="btn btn-success form-control">Volver</a>
+                </div>
+            </div>
+
+        </div>
+        <div class="col-4 pt-3">
+            <img src="@Model.Articulo.UrlImage" width="100%" style="border-radius:5px; border:1px solid #bbb9b9"/>
+        </div>
+    </div>
+</form>
+
+@section Scripts{
+    <script src="https://cdn.tiny.cloud/1/i6gtena4fh2m5ainibobj7zuj96erii3l0r4z40e4wj3fvq7/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+    <script>
+        tinymce.init({
+            selector: "textarea",
+            plugins: "lists",
+            menubar: "file edit format"
+        });
+    </script>
+}

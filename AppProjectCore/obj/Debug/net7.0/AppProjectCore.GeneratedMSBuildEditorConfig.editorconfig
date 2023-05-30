@@ -16,6 +16,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\AppProjectCore\AppProjectCore
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/nesto/Dropbox/PROGRAMACION/Udemy_.Net_6/AppProjectCore/AppProjectCore/Areas/Admin/Views/Articulo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJ0aWN1bG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nesto/Dropbox/PROGRAMACION/Udemy_.Net_6/AppProjectCore/AppProjectCore/Areas/Admin/Views/Articulo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJ0aWN1bG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nesto/Dropbox/PROGRAMACION/Udemy_.Net_6/AppProjectCore/AppProjectCore/Areas/Admin/Views/Articulo/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJ0aWN1bG9cVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/nesto/Dropbox/PROGRAMACION/Udemy_.Net_6/AppProjectCore/AppProjectCore/Areas/Admin/Views/Categoria/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmlhXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

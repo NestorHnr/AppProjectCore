@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\js\articulos.js" />
     <Content Remove="wwwroot\js\categoria.js" />
   </ItemGroup>
 
@@ -22,11 +23,16 @@
 
   <ItemGroup>
     <None Include="..\.editorconfig" Link=".editorconfig" />
+    <None Include="wwwroot\js\articulos.js" />
     <None Include="wwwroot\js\categoria.js" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\AppProjectCore.AccesoDatos\AppProjectCore.AccesoDatos.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\imagenes\articulos\" />
   </ItemGroup>
 
 </Project>

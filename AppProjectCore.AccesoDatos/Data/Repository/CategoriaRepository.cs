@@ -1,13 +1,13 @@
 ﻿using AppProjectCore.AccesoDatos.Data.Repository.IRepository;
 using AppProjectCore.Data;
 using AppProjectCore.Models;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Web.Mvc;
 
 namespace AppProjectCore.AccesoDatos.Data.Repository
 {

@@ -10,6 +10,7 @@ namespace AppProjectCore.AccesoDatos.Data.Repository.IRepository
     {
         //Aqui deben ir agregando los diferenctes repositorios
         ICategoriaRepository Categoria { get; }
+        IArticuloRepository Articulo { get; }
 
         void save();
     }

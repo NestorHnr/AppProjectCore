@@ -13,8 +13,8 @@ function cargarDataTable() {
         },
         "columns": [
             {"data": "id", "width": "5%"},
-            {"data": "nombre", "width": "50%"},
-            { "data": "orden", "width": "20%" },
+            {"data": "nombre", "width": "30%"},
+            {"data": "orden", "width": "15%" },
             {
                 "data": "id",
                 "render": function (data) {
@@ -26,7 +26,7 @@ function cargarDataTable() {
                                 <i class="fa-solid fa-trash-can"></i> Borrar</a>
                             </div>
                            `;
-                }, "width":"30%"
+                }, "width":"40%"
             }
         ],  
         "language": {
