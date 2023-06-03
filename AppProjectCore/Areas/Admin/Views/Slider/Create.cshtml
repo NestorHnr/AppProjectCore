@@ -1,0 +1,73 @@
+﻿@model AppProjectCore.Models.Slider
+
+@{
+    ViewData["Title"] = "Crear Slider";
+}
+
+<br />
+<br />
+<h3 class="text-center">Crear un nuevo slider</h3>
+<form method="post" asp-action="Create" enctype="multipart/form-data">
+    <div class="row px-2 offset-1 border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="col-12 mt-4">
+            <div class="form-group row">
+                <div class="col-7">
+                    <label class="col-4">
+                        <label asp-for="Nombre"></label>
+                    </label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Nombre" class="form-control" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-7">
+                    <label class="col-4">
+                        <label asp-for="Estado"></label>
+                    </label>
+                </div>
+                <div class="col-7">
+                    <input asp-for="Estado"/>
+                    <span asp-validation-for="Estado" class="text-danger"></span>
+                </div>
+            </div>
+
+
+            <div class="form-group row mt-2">
+                <div class="col-7">
+                    <label class="col-7">
+                        <label asp-for="ImagenUrl"></label>
+                    </label>
+                </div>
+                <div class="col-7">
+                    <input type="file" name="archivos" id="subidaArchivo" class="form-control"/>
+                    <span asp-validation-for="ImagenUrl" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-8 mt-4">
+                    <partial name="_VistaCrearVolver" />
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script src="https://cdn.tiny.cloud/1/i6gtena4fh2m5ainibobj7zuj96erii3l0r4z40e4wj3fvq7/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+    <script>
+        tinymce.init({
+            selector: "textarea",
+            plugins: "lists",
+            menubar: "file edit format"
+        });
+    </script>
+}

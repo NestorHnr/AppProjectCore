@@ -40,6 +40,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmlhXFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/nesto/Dropbox/PROGRAMACION/Udemy_.Net_6/AppProjectCore/AppProjectCore/Areas/Admin/Views/Slider/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nesto/Dropbox/PROGRAMACION/Udemy_.Net_6/AppProjectCore/AppProjectCore/Areas/Admin/Views/Slider/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nesto/Dropbox/PROGRAMACION/Udemy_.Net_6/AppProjectCore/AppProjectCore/Areas/Admin/Views/Slider/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/nesto/Dropbox/PROGRAMACION/Udemy_.Net_6/AppProjectCore/AppProjectCore/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,12 +60,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nesto/Dropbox/PROGRAMACION/Udemy_.Net_6/AppProjectCore/AppProjectCore/Areas/Cliente/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50ZVxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+[C:/Users/nesto/Dropbox/PROGRAMACION/Udemy_.Net_6/AppProjectCore/AppProjectCore/Areas/Cliente/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50ZVxWaWV3c1xIb21lXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nesto/Dropbox/PROGRAMACION/Udemy_.Net_6/AppProjectCore/AppProjectCore/Areas/Cliente/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50ZVxWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
+[C:/Users/nesto/Dropbox/PROGRAMACION/Udemy_.Net_6/AppProjectCore/AppProjectCore/Areas/Cliente/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50ZVxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/nesto/Dropbox/PROGRAMACION/Udemy_.Net_6/AppProjectCore/AppProjectCore/Areas/Cliente/Views/_ViewImports.cshtml]
@@ -74,6 +86,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/nesto/Dropbox/PROGRAMACION/Udemy_.Net_6/AppProjectCore/AppProjectCore/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nesto/Dropbox/PROGRAMACION/Udemy_.Net_6/AppProjectCore/AppProjectCore/Views/Shared/_Slider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TbGlkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/nesto/Dropbox/PROGRAMACION/Udemy_.Net_6/AppProjectCore/AppProjectCore/Views/Shared/_ValidationScriptsPartial.cshtml]

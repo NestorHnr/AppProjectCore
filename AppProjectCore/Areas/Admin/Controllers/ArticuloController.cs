@@ -55,7 +55,7 @@ namespace AppProjectCore.Areas.Admin.Controllers
                         archivos[0].CopyTo(fileStreams);
                     }
 
-                    artiVM.Articulo.UrlImage = @"imagenes\articulos\" + nombreArchivo + extencion;
+                    artiVM.Articulo.UrlImage = @"\imagenes\articulos\" + nombreArchivo + extencion;
                     artiVM.Articulo.FechaCreacion = DateTime.Now.ToString();
 
                     _contenedor.Articulo.Add(artiVM.Articulo);
@@ -117,7 +117,7 @@ namespace AppProjectCore.Areas.Admin.Controllers
                         archivos[0].CopyTo(fileStreams);
                     }
 
-                    artiVM.Articulo.UrlImage = @"imagenes\articulos\" + nombreArchivo + extencion;
+                    artiVM.Articulo.UrlImage = @"\imagenes\articulos\" + nombreArchivo + extencion;
                     artiVM.Articulo.FechaCreacion = DateTime.Now.ToString();
 
                     _contenedor.Articulo.Update(artiVM.Articulo);

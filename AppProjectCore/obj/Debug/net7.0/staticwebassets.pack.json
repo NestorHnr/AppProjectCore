@@ -13,8 +13,32 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\nesto\\Dropbox\\PROGRAMACION\\Udemy_.Net_6\\AppProjectCore\\AppProjectCore\\wwwroot\\imagenes\\articulos\\60cbf2b4-a3f0-4942-acf5-6696bec706ec.png",
-      "PackagePath": "staticwebassets\\imagenes\\articulos\\60cbf2b4-a3f0-4942-acf5-6696bec706ec.png"
+      "Id": "C:\\Users\\nesto\\Dropbox\\PROGRAMACION\\Udemy_.Net_6\\AppProjectCore\\AppProjectCore\\wwwroot\\imagenes\\articulos\\1c5de9fd-594a-424b-a806-c0109a013219.png",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\1c5de9fd-594a-424b-a806-c0109a013219.png"
+    },
+    {
+      "Id": "C:\\Users\\nesto\\Dropbox\\PROGRAMACION\\Udemy_.Net_6\\AppProjectCore\\AppProjectCore\\wwwroot\\imagenes\\articulos\\ba70a011-5355-4e3d-b372-f915f43c48c9.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\ba70a011-5355-4e3d-b372-f915f43c48c9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nesto\\Dropbox\\PROGRAMACION\\Udemy_.Net_6\\AppProjectCore\\AppProjectCore\\wwwroot\\imagenes\\articulos\\c80b8da5-61bb-4f1c-b872-e0b6d4a55bab.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\c80b8da5-61bb-4f1c-b872-e0b6d4a55bab.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\nesto\\Dropbox\\PROGRAMACION\\Udemy_.Net_6\\AppProjectCore\\AppProjectCore\\wwwroot\\imagenes\\sliders\\1a0ac170-14c0-4203-a2f4-a52c4e5091eb.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\1a0ac170-14c0-4203-a2f4-a52c4e5091eb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nesto\\Dropbox\\PROGRAMACION\\Udemy_.Net_6\\AppProjectCore\\AppProjectCore\\wwwroot\\imagenes\\sliders\\29b84fb9-7552-4837-8640-9db1f8d4e994.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\29b84fb9-7552-4837-8640-9db1f8d4e994.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nesto\\Dropbox\\PROGRAMACION\\Udemy_.Net_6\\AppProjectCore\\AppProjectCore\\wwwroot\\imagenes\\sliders\\cbebea6a-9b54-49c4-a679-cdd399e34c02.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\cbebea6a-9b54-49c4-a679-cdd399e34c02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nesto\\Dropbox\\PROGRAMACION\\Udemy_.Net_6\\AppProjectCore\\AppProjectCore\\wwwroot\\imagenes\\sliders\\eccbc940-7ed8-46a8-8625-aaff792bd9c9.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\eccbc940-7ed8-46a8-8625-aaff792bd9c9.jpg"
     },
     {
       "Id": "C:\\Users\\nesto\\Dropbox\\PROGRAMACION\\Udemy_.Net_6\\AppProjectCore\\AppProjectCore\\wwwroot\\js\\site.js",

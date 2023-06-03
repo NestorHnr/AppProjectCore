@@ -10,6 +10,7 @@
   <ItemGroup>
     <Content Remove="wwwroot\js\articulos.js" />
     <Content Remove="wwwroot\js\categoria.js" />
+    <Content Remove="wwwroot\js\sliders.js" />
   </ItemGroup>
 
   <ItemGroup>
@@ -23,6 +24,7 @@
 
   <ItemGroup>
     <None Include="..\.editorconfig" Link=".editorconfig" />
+    <None Include="wwwroot\js\sliders.js" />
     <None Include="wwwroot\js\articulos.js" />
     <None Include="wwwroot\js\categoria.js" />
   </ItemGroup>
@@ -33,6 +35,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\imagenes\articulos\" />
+    <Folder Include="wwwroot\imagenes\sliders\" />
   </ItemGroup>
 
 </Project>

@@ -56,7 +56,8 @@
                     </label>
                 </div>
                 <div class="col-7">
-                    <input type="file" name="archivos" id="subidaArchivo" class="form-control"></input>
+                    <input type="file" name="archivos" id="subidaArchivo" multiple class="form-control"/>
+                    <span asp-validation-for="Articulo.UrlImage" class="text-danger"></span>
                 </div>
             </div>
 

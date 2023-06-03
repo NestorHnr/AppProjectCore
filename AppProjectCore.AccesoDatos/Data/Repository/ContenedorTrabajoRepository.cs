@@ -17,10 +17,12 @@ namespace AppProjectCore.AccesoDatos.Data.Repository
             _context = context;
             Categoria = new CategoriaRepository(_context);
             Articulo = new ArticuloRepository(_context);
+            Slider = new SliderRepository(_context);
         }
 
         public ICategoriaRepository Categoria { get; private set; }
         public IArticuloRepository Articulo { get; private set; }
+        public ISliderRepository Slider { get; private set; }
 
         public void Dispose()
         {
