@@ -6,7 +6,7 @@ using Microsoft.CodeAnalysis;
 
 namespace AppProjectCore.Areas.Admin.Controllers
 {
-    [Area("Admin")]
+    
     public class ArticuloController : Controller
     {
         private readonly IContenedorTrabajo _contenedor;

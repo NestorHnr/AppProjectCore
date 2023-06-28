@@ -18,11 +18,13 @@ namespace AppProjectCore.AccesoDatos.Data.Repository
             Categoria = new CategoriaRepository(_context);
             Articulo = new ArticuloRepository(_context);
             Slider = new SliderRepository(_context);
+            Usuario = new UsuarioRepository(_context);
         }
 
         public ICategoriaRepository Categoria { get; private set; }
         public IArticuloRepository Articulo { get; private set; }
         public ISliderRepository Slider { get; private set; }
+        public IUsuarioRepository Usuario { get; private set; }
 
         public void Dispose()
         {
