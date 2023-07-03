@@ -1,9 +1,12 @@
 ﻿using AppProjectCore.AccesoDatos.Data.Repository.IRepository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System.Data;
 using System.Security.Claims;
 
 namespace AppProjectCore.Areas.Admin.Controllers
 {
+    [Authorize(Roles = "Admin")]
     [Area("Admin")]
     public class UsuarioController : Controller
     {

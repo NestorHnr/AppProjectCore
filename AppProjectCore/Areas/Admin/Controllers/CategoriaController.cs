@@ -1,10 +1,12 @@
 ﻿using AppProjectCore.AccesoDatos.Data.Repository.IRepository;
 using AppProjectCore.Data;
 using AppProjectCore.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AppProjectCore.Areas.Admin.Controllers
 {
+    [Authorize(Roles = "Admin")]
     [Area("Admin")]
     public class CategoriaController : Controller
     {

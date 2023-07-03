@@ -1,12 +1,15 @@
 ﻿using AppProjectCore.AccesoDatos.Data.Repository.IRepository;
 using AppProjectCore.Data;
 using AppProjectCore.Models.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.CodeAnalysis;
+using System.Data;
 
 namespace AppProjectCore.Areas.Admin.Controllers
 {
-    
+    [Authorize(Roles = "Admin")]
+    [Area("Admin")]
     public class ArticuloController : Controller
     {
         private readonly IContenedorTrabajo _contenedor;

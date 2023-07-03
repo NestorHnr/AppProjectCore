@@ -1,10 +1,12 @@
 ﻿using AppProjectCore.AccesoDatos.Data.Repository.IRepository;
 using AppProjectCore.Models;
 using AppProjectCore.Models.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AppProjectCore.Areas.Admin.Controllers
 {
+    [Authorize(Roles = "Admin")]
     [Area("Admin")]
     public class SliderController : Controller
     {
